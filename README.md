@@ -17,3 +17,13 @@ Here you can find the list of links to the tested projects:
 * [utbot-samples](https://github.com/tamarinvs19/UTBotPythonSamples/utbot-samples)
 * [python-fire](https://github.com/google/python-fire)
 * [cookiecutter](https://github.com/cookiecutter/cookiecutter)
+
+## Results
+### Coverage statistics
+![image](https://github.com/tamarinvs19/UTBotPythonSamples/assets/23080942/1d6ba584-04ee-4901-96ec-5fe2c48bf79d)
+
+### Annotated and unannotated
+![image](https://github.com/tamarinvs19/UTBotPythonSamples/assets/23080942/8bc0bc81-b6f3-4d2b-8297-e33248e7d544)
+
+### Coverage per time
+![image](https://github.com/tamarinvs19/UTBotPythonSamples/assets/23080942/554615d8-4262-42d1-8f46-d601680bff53)
